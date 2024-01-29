@@ -22,17 +22,17 @@ Eula,5,Mondstadt,Cryo,Claymore,CRIT DMG,Dandelion Seed,Ominous Mask,Crystalline 
 Faruzan,4,Sumeru,Anemo,Bow,ATK,Henna Berry,Rich Red Brocade,Light Guiding Tetrahedron,Everlasting Lord of Arcane Wisdom,3.3,Admonition
 Fischl,4,Mondstadt,Electro,Bow,ATK,Small Lamp Grass,Weathered Arrowhead,Lightning Prism,Andrius,1.0,Ballad
 Freminet,4,Fontaine,Cryo,Claymore,ATK,Romaritime Flower,Transoceanic Pearl,Artificed Spare Clockwork Component - Coppelius,Guardian of Apeps Oasis,4.0,Justice
-Furina,5,Fontaine,Hydro,Sword,CRIT Rate,Lakelight Lily,Whopperflower Nectar,Water That Failed To Transcend,All-Devouring Narwhal,4.2,Justice
-Ganyu,5,Liyue,Cryo,Bow,CRIT DMG,Qingxin,Whopperflower Nectar,Hoarfrost Core,Childe,1.2,Diligence
+Furina,5,Fontaine,Hydro,Sword,CRIT Rate,Lakelight Lily,Energy Nectar,Water That Failed To Transcend,All-Devouring Narwhal,4.2,Justice
+Ganyu,5,Liyue,Cryo,Bow,CRIT DMG,Qingxin,Energy Nectar,Hoarfrost Core,Childe,1.2,Diligence
 Gorou,4,Inazuma,Geo,Bow,Geo DMG,Sango Pearl,Spectral Nucleus,Perpetual Heart,La Signora,2.3,Light
-Hu Tao,5,Liyue,Pyro,Polearm,CRIT DMG,Silk Flower,Whopperflower Nectar,Juvenile Jade,Childe,1.3,Diligence
+Hu Tao,5,Liyue,Pyro,Polearm,CRIT DMG,Silk Flower,Energy Nectar,Juvenile Jade,Childe,1.3,Diligence
 Jean,5,Mondstadt,Anemo,Sword,Healing,Dandelion Seed,Ominous Mask,Hurricane Seed,Stormterror,1.0,Resistance
 Kazuha,5,Inazuma,Anemo,Sword,Elemental Mastery,Sea Ganoderma,Golden Raven Insignia,Marionette Core,Azhdaha,1.6,Diligence
 Kaeya,4,Mondstadt,Cryo,Sword,Energy Recharge,Calla Lily,Golden Raven Insignia,Hoarfrost Core,Andrius,1.0,Ballad
 Ayaka,5,Inazuma,Cryo,Sword,CRIT DMG,Sakura Bloom,Famed Handguard,Perpetual Heart,Azhdaha,2.0,Elegance
 Ayato,5,Inazuma,Hydro,Sword,CRIT DMG,Sakura Bloom,Famed Handguard,Dew of Repudation,Magatsu Mitake Narukami no Mikoto,2.6,Elegance
 Kaveh,4,Sumeru,Dendro,Claymore,Elemental Mastery,Mourning Flower,Crystalline Cyst Dust,Quelled Creeper,Guardian of Apeps Oasis,3.6,Ingenuity
-Keqing,5,Liyue,Electro,Sword,CRIT DMG,Cor Lapis,Whopperflower Nectar,Lightning Prism,Andrius,1.0,Prosperity
+Keqing,5,Liyue,Electro,Sword,CRIT DMG,Cor Lapis,Energy Nectar,Lightning Prism,Andrius,1.0,Prosperity
 Kirara,4,Inazuma,Dendro,Sword,HP,Amakumo Fruit,Spectral Nucleus,Evergloom Ring,Guardian of Apeps Oasis,3.7,Transience
 Klee,5,Mondstadt,Pyro,Catalyst,Pyro DMG,Philanemo Mushroom,Forbidden Curse Scroll,Everflame Seed,Andrius,1.0,Freedom
 Kujou Sara,4,Inazuma,Electro,Bow,ATK,Dendrobium,Ominous Mask,Storm Beads,La Signora,2.1,Elegance
@@ -42,7 +42,7 @@ Lisa,4,Mondstadt,Electro,Catalyst,Elemental Mastery,Valberry,Slime Concentrate,L
 Lynette,4,Fontaine,Anemo,Sword,Anemo DMG,Lumidouce Bell,Artificed Dynamic Gear,Artificed Spare Clockwork Component - Coppelia,Guardian of Apeps Oasis,4.0,Order
 Lyney,5,Fontaine,Pyro,Bow,CRIT Rate,Rainbow Rose,Lieutenants Insignia,Emperor's Resolution,Guardian of Apeps Oasis,4.0,Equity
 Mika,4,Mondstadt,Cryo,Polearm,HP,Wolfhook,Lieutenants Insignia,Pseudo-Stamens,Everlasting Lord of Arcane Wisdom,3.5,Ballad
-Mona,5,Mondstadt,Hydro,Catalyst,Energy Recharge,Philanemo Mushroom,Whopperflower Nectar,Cleansing Heart,Andrius,1.0,Resistance
+Mona,5,Mondstadt,Hydro,Catalyst,Energy Recharge,Philanemo Mushroom,Energy Nectar,Cleansing Heart,Andrius,1.0,Resistance
 Nahida,5,Sumeru,Dendro,Catalyst,Elemental Mastery,Kalpalata Lotus,Crystalline Cyst Dust,Quelled Creeper,Everlasting Lord of Arcane Wisdom,3.2,Ingenuity
 Navia,5,Fontaine,Geo,Claymore,CRIT DMG,Spring of the First Dewdrop,Xenochromatic Crystal,Artificed Spare Clockwork Component - Coppelius,All-Devouring Narwhal,4.3,Equity
 Nilou,5,Sumeru,Hydro,Sword,HP,Padisarah,Crystalline Cyst Dust,Perpetual Caliber,Magatsu Mitake Narukami no Mikoto,3.1,Praxis
@@ -54,10 +54,10 @@ Raiden Shogun,5,Inazuma,Electro,Polearm,Energy Recharge,Amakumo Fruit,Famed Hand
 Razor,4,Mondstadt,Electro,Claymore,Physical DMG,Wolfhook,Ominous Mask,Lightning Prism,Stormterror,1.0,Resistance
 Rosaria,4,Mondstadt,Cryo,Polearm,ATK,Valberry,Lieutenants Insignia,Hoarfrost Core,Childe,1.4,Ballad
 Kokomi,5,Inazuma,Hydro,Catalyst,Hydro DMG,Sango Pearl,Spectral Nucleus,Dew of Repudation,La Signora,2.1,Transience
-Sayu,4,Inazuma,Anemo,Claymore,Elemental Mastery,Crystal Marrow,Whopperflower Nectar,Marionette Core,Azhdaha,2.0,Light
-Shenhe,5,Liyue,Cryo,Polearm,ATK,Qingxin,Whopperflower Nectar,Dragonheir's False Fin,La Signora,2.4,Prosperity
+Sayu,4,Inazuma,Anemo,Claymore,Elemental Mastery,Crystal Marrow,Energy Nectar,Marionette Core,Azhdaha,2.0,Light
+Shenhe,5,Liyue,Cryo,Polearm,ATK,Qingxin,Energy Nectar,Dragonheir's False Fin,La Signora,2.4,Prosperity
 Heizou,4,Inazuma,Anemo,Catalyst,Anemo DMG,Onikabuto,Golden Raven Insignia,Runic Fang,Magatsu Mitake Narukami no Mikoto,2.8,Transience
-Sucrose,4,Mondstadt,Anemo,Catalyst,Anemo DMG,Windwheel Aster,Whopperflower Nectar,Hurricane Seed,Andrius,1.0,Freedom
+Sucrose,4,Mondstadt,Anemo,Catalyst,Anemo DMG,Windwheel Aster,Energy Nectar,Hurricane Seed,Andrius,1.0,Freedom
 Tartaglia,5,Snezhnaya,Hydro,Bow,Hydro DMG,Starconch,Lieutenants Insignia,Cleansing Heart,Childe,1.1,Freedom
 Thoma,4,Inazuma,Pyro,Polearm,ATK,Fluorescent Fungus,Golden Raven Insignia,Smoldering Pearl,La Signora,2.2,Transience
 Tighnari,5,Sumeru,Dendro,Bow,Dendro DMG,Nilotpala Lotus,Crystalline Cyst Dust,Majestic Hooked Beak,Magatsu Mitake Narukami no Mikoto,3.0,Admonition
