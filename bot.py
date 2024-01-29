@@ -155,12 +155,10 @@ def solve(char_data, browser):
     current_round = 0
 
     while current_round < max_rounds:
-        if current_round == 0:
-            character_guess = "Raiden"
-        elif len(filtered_data) == 1:
+        if len(filtered_data) == 1:
             character_guess = filtered_data.iloc[0]["name"]
         else:
-            character_guess = filtered_data.sample(n=1)["name"].values[0]
+            character_guess = filtered_data.iloc[len(filtered_data) // 2]["name"]
 
         guess_char(character_guess, browser)
 
@@ -185,6 +183,7 @@ def main():
     assert "Genshindle" in browser.title
 
     char_data = load_data()
+    char_data = char_data.sort_values(by="version")
 
     while True:
         solve(char_data, browser)
