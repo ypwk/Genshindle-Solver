@@ -4,6 +4,7 @@ Alhaitham,5,Sumeru,Dendro,Sword,Dendro DMG,Sand Grease Pupa,Rich Red Brocade,Pse
 Aloy,5,Other,Cryo,Bow,Cryo DMG,Crystal Marrow,Spectral Nucleus,Crystalline Bloom,La Signora,2.1,Freedom
 Amber,4,Mondstadt,Pyro,Bow,ATK,Small Lamp Grass,Weathered Arrowhead,Everflame Seed,Stormterror,1.0,Freedom
 Arataki Itto,5,Inazuma,Geo,Claymore,CRIT Rate,Onikabuto,Slime Concentrate,Riftborn Regalia,La Signora,2.3,Elegance
+Arlecchino,5,Snezhnaya,Pyro,Polearm,CRIT DMG,Rainbow Rose,Lieutenants Insignia,Fragment of a Golden Melody,The Knave,4.6,Order
 Baizhu,5,Liyue,Dendro,Catalyst,HP,Violetgrass,Crystalline Cyst Dust,Evergloom Ring,Guardian of Apeps Oasis,3.6,Gold
 Barbara,4,Mondstadt,Hydro,Catalyst,HP,Philanemo Mushroom,Forbidden Curse Scroll,Cleansing Heart,Andrius,1.0,Freedom
 Beidou,4,Liyue,Electro,Claymore,Electro DMG,Noctilucous Jade,Golden Raven Insignia,Lightning Prism,Stormterror,1.0,Gold
@@ -11,6 +12,7 @@ Bennett,4,Mondstadt,Pyro,Sword,Energy Recharge,Windwheel Aster,Golden Raven Insi
 Candace,4,Sumeru,Hydro,Polearm,HP,Redcrest,Rich Red Brocade,Light Guiding Tetrahedron,Magatsu Mitake Narukami no Mikoto,3.1,Admonition
 Chevreuse,4,Fontaine,Pyro,Polearm,HP,Lumidouce Bell,Artificed Dynamic Gear,Fontemer Unihorn,All-Devouring Narwhal,4.3,Order
 Charlotte,4,Fontaine,Cryo,Catalyst,ATK,Beryl Conch,Artificed Dynamic Gear,"""Tourbillon Device""",All-Devouring Narwhal,4.2,Justice
+Chiori,5,Inazuma,Geo,Sword,CRIT Rate,Dendrobium,Spectral Nucleus,Artificed Spare Clockword Component — Coppelia,All-Devouring Narwhal,4.5,Light
 Chongyun,4,Liyue,Cryo,Claymore,ATK,Cor Lapis,Ominous Mask,Hoarfrost Core,Stormterror,1.0,Diligence
 Collei,4,Sumeru,Dendro,Bow,ATK,Rukkhashava Mushrooms,Weathered Arrowhead,Majestic Hooked Beak,Magatsu Mitake Narukami no Mikoto,3.0,Praxis
 Cyno,5,Sumeru,Electro,Polearm,CRIT DMG,Scarab,Forbidden Curse Scroll,Thunderclap Fruitcore,Magatsu Mitake Narukami no Mikoto,3.1,Admonition
@@ -23,6 +25,7 @@ Faruzan,4,Sumeru,Anemo,Bow,ATK,Henna Berry,Rich Red Brocade,Light Guiding Tetrah
 Fischl,4,Mondstadt,Electro,Bow,ATK,Small Lamp Grass,Weathered Arrowhead,Lightning Prism,Andrius,1.0,Ballad
 Freminet,4,Fontaine,Cryo,Claymore,ATK,Romaritime Flower,Xenochromatic Crystal,Artificed Spare Clockwork Component - Coppelius,Guardian of Apeps Oasis,4.0,Justice
 Furina,5,Fontaine,Hydro,Sword,CRIT Rate,Lakelight Lily,Energy Nectar,Water That Failed To Transcend,All-Devouring Narwhal,4.2,Justice
+Gaming,4,Liyue,Pyro,Claymore,ATK,Starconch,Slime Concentrate,Emperor's Resolution,Narwhal,4.4,Prosperity
 Ganyu,5,Liyue,Cryo,Bow,CRIT DMG,Qingxin,Energy Nectar,Hoarfrost Core,Childe,1.2,Diligence
 Gorou,4,Inazuma,Geo,Bow,Geo DMG,Sango Pearl,Spectral Nucleus,Perpetual Heart,La Signora,2.3,Light
 Hu Tao,5,Liyue,Pyro,Polearm,CRIT DMG,Silk Flower,Energy Nectar,Juvenile Jade,Childe,1.3,Diligence
@@ -65,6 +68,7 @@ Venti,5,Mondstadt,Anemo,Bow,Energy Recharge,Cecilia,Slime Concentrate,Hurricane 
 Wanderer,5,Sumeru,Anemo,Catalyst,CRIT Rate,Rukkhashava Mushrooms,Famed Handguard,Perpetual Caliber,Everlasting Lord of Arcane Wisdom,3.3,Praxis
 Wriothesley,5,Fontaine,Cryo,Catalyst,CRIT DMG,Subdetection Unit,Artificed Dynamic Gear,"""Tourbillon Device""",Guardian of Apeps Oasis,4.1,Order
 Xiangling,4,Liyue,Pyro,Polearm,Elemental Mastery,Jueyun Chili,Slime Concentrate,Everflame Seed,Stormterror,1.0,Diligence
+Xianyun,5,Liyue,Anemo,Catalyst,ATK,Clearwater Jade,Forbidden Curse Scroll,Cloudseam Scale,Narwhal,4.4,Gold
 Xiao,5,Liyue,Anemo,Polearm,CRIT Rate,Qingxin,Slime Concentrate,Juvenile Jade,Childe,1.3,Prosperity
 Xingqiu,4,Liyue,Hydro,Sword,ATK,Silk Flower,Ominous Mask,Cleansing Heart,Andrius,1.0,Gold
 Xinyan,4,Liyue,Pyro,Claymore,ATK,Violetgrass,Golden Raven Insignia,Everflame Seed,Childe,1.1,Gold
